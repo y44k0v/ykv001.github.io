@@ -1,6 +1,6 @@
 Markdown version of the html file.
 
-# Some Fire Station in Toronto
+# Some Fire Stations in Toronto
 
 ### July 30, 2017
 
